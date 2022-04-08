@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/academy-react/static/css/main.6cb0a58f.css",
-    "main.js": "/academy-react/static/js/main.6e1f37c3.js",
+    "main.css": "/academy-react/static/css/main.5f46ea29.css",
+    "main.js": "/academy-react/static/js/main.00813a9e.js",
     "static/js/787.d9a56072.chunk.js": "/academy-react/static/js/787.d9a56072.chunk.js",
     "static/media/my_photo.png": "/academy-react/static/media/my_photo.7ccbc6486693ae66a47f.png",
     "index.html": "/academy-react/index.html",
-    "main.6cb0a58f.css.map": "/academy-react/static/css/main.6cb0a58f.css.map",
-    "main.6e1f37c3.js.map": "/academy-react/static/js/main.6e1f37c3.js.map",
+    "main.5f46ea29.css.map": "/academy-react/static/css/main.5f46ea29.css.map",
+    "main.00813a9e.js.map": "/academy-react/static/js/main.00813a9e.js.map",
     "787.d9a56072.chunk.js.map": "/academy-react/static/js/787.d9a56072.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6cb0a58f.css",
-    "static/js/main.6e1f37c3.js"
+    "static/css/main.5f46ea29.css",
+    "static/js/main.00813a9e.js"
   ]
 }
